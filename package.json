@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Adam Goodrich",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.0"
+  }
+}
+
